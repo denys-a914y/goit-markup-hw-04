@@ -38,7 +38,6 @@ a {
   justify-content: space-between;
   width: 1158px;
   margin: 0 auto
- 
 
 }
 .nav-item.current{
@@ -63,7 +62,7 @@ h1, h2, h3, h4, h5, h6, p {
   display: flex;
   height: 72px;
   border-bottom: 1px solid #e7e9fc
- 
+
 
 }
 
