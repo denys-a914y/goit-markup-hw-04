@@ -343,6 +343,7 @@ background: #f4f4fd;
    display: flex;
   align-items: center;
   justify-content: center;
+   margin-bottom: 8px;
 
  
   
@@ -563,9 +564,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 height: 100%;
   
-padding: 32px;
+padding: 40px 32px;
 transform: translateY(100%);
 transition: 0.3s ease-in-out;
+
+
 }
 .licu-cover{
   position: relative;
@@ -574,6 +577,9 @@ transition: 0.3s ease-in-out;
 .licu:hover .port-info-slide{
   transform: translateY(0);
 
+}
+.licu:hover{
+  box-shadow:0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 
